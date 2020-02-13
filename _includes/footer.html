@@ -1,0 +1,20 @@
+<footer class="center">
+  <div class="measure">
+    <small>
+      Made with 💙 by <a href="https://divayprakash.github.io/">Divay Prakash</a>
+      <br>
+      Hosted on <a href="https://pages.github.com/">GitHub</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a> &bull; Based on <a href="https://github.com/johnotander/pixyll">Pixyll</a>
+    </small>
+  </div>
+</footer>
+{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>{% endif %}
+<script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+    }
+</script>
