@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	Flying (not so) high
-date: 	2020-02-08 11:21:55
+date: 	2020-02-08 11:21 +0530
 ---
 As I said before, I type this now on my connecting flight, now on a Bombardier Q400NG Bash 8 bound for Dibrugarh. This really is one aircraft I love flying on. Somehow (and I really don't actually know how) it turns out that these are far more comfortable as compared to regular jet aircraft in India like the A320s or the B737s. There is loads more legroom, and the seats are more comfortable. The noise is noticeably more of course, but that's to be expected with a propeller. However, some noise cancellation headphones sort that right out.
 

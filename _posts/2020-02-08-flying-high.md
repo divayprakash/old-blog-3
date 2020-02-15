@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	Flying High!
-date: 	2020-02-08 08:09:36
+date: 	2020-02-08 08:09 +0530
 ---
 So, my first post. Here goes.......
 

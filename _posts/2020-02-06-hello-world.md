@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	Hello World!
-date: 	2020-02-06 20:19:21
+date: 	2020-02-06 20:19 +0530
 ---
 Finally.....we are live! :metal:
 
